@@ -42,3 +42,6 @@ SimpleAccounts is an innovative accounting software that provides a comprehensiv
 - Payroll __*Free__
   - Payroll Run
   - Payroll Config
+- ZATKA Integration __*Free__
+  - e-Invoicing ZATKA Phase-1
+  - e-Invoicing ZATKA Phase-2
